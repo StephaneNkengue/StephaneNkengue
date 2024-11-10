@@ -7,7 +7,6 @@ Développeur Full Stack
 
 👨‍💻 Je suis un développeur Web full-stack junior ASP.NET et Javascript, finissant ma technique en informatique.
 
-* 🌍  Québec, Canada
 * ✉️  Vous pouvez me contacter sur [nkenguestephane0@gmail.com](mailto:nkenguestephane0@gmail.com)
 * 🚀  Je travaille actuellement sur mon projet de fin d'étude [Les Encans de Nantes](http://sqlinfocg.cegepgranby.qc.ca/2162067/)
 * 🧠  Présentement j'apprends ReactJS et NestJS
