@@ -1,4 +1,4 @@
-Salut ![](https://github.com/user-attachments/assets/6e3d6820-24f2-48b1-85ca-e2d3540998f1)mon nom c'est Stéphane Nkengue
+## Salut ! <img src="git_hub.gif" width="80" height="80" alt="hello animation"> mon nom c'est Stéphane Nkengue.
 ========================================================================================================================================
 
 
