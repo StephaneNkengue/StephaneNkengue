@@ -1,4 +1,4 @@
-Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)mon nom c'est Stéphane Nkengue
+Salut ![](https://github.com/user-attachments/assets/6e3d6820-24f2-48b1-85ca-e2d3540998f1)mon nom c'est Stéphane Nkengue
 ========================================================================================================================================
 
 
