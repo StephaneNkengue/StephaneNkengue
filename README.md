@@ -9,7 +9,7 @@ Développeur Full Stack
 
 * ✉️  Vous pouvez me contacter sur [nkenguestephane0@gmail.com](mailto:nkenguestephane0@gmail.com)
 * 🚀  Je travaille actuellement sur mon projet de fin d'étude [Les Encans de Nantes](http://sqlinfocg.cegepgranby.qc.ca/2162067/) ainsi que sur la Landing page de mon SAAS [FinanceFix](https://www.financefix.io/)
-* 🧠  Présentement, j'apprends ReactJS et NestJS
+* 🧠  Présentement, j'apprends un frameWork basé sur React appellé NextJS
 * 🤝  Je suis ouvert à travailler sur tous projets intéressants.
 * ⚡  Créateur de  ["TheBridge"](https://thebridge-news.beehiiv.com/subscribe) newsletter, je suis un passionné de sport ⚽
 
