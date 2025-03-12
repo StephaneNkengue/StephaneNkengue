@@ -8,7 +8,7 @@ Développeur Full Stack
 👨‍💻 Je suis un développeur Web full-stack junior ASP.NET et Javascript, finissant ma technique en informatique.
 
 * ✉️  Vous pouvez me contacter sur [nkenguestephane0@gmail.com](mailto:nkenguestephane0@gmail.com)
-* 🚀  Je travaille actuellement sur mon projet de fin d'étude [Les Encans de Nantes](http://sqlinfocg.cegepgranby.qc.ca/2162067/) ainsi que sur la Landing page de mon SAAS [FinanceFix](https://www.financefix.io/)
+* 🚀  Après avoir terminé mon projet de fin d'étude [Les Encans de Nantes](http://sqlinfocg.cegepgranby.qc.ca/2162067/), je travaille actuellement sur la Landing page de mon SAAS [FinanceFix](https://www.financefix.io/) aisni que le site web pour réservation dans un salon de coiffure [Christian-Cutz](https://www.christian-cutz.com/)
 * 🧠  Présentement, j'apprends un frameWork basé sur React appellé NextJS
 * 🤝  Je suis ouvert à travailler sur tous projets intéressants.
 * ⚡  Créateur de  ["TheBridge"](https://thebridge-news.beehiiv.com/subscribe) newsletter, je suis un passionné de sport ⚽
